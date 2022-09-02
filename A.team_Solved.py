@@ -1,3 +1,10 @@
+
+
+# A Team-CodeForces problem solved by me 
+
+#link to problem https://codeforces.com/problemset/problem/231/A 
+
+
 problems = int(input())
 
 suma = 0
